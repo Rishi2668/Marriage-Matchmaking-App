@@ -22,7 +22,7 @@ A FastAPI application for managing user profiles with matching capabilities.
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd user-profile-api
+   cd Marriage-Matchmaking-App-main
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
